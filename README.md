@@ -1,0 +1,1 @@
+# SquatCheckAI-UCR
