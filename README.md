@@ -9,6 +9,5 @@ A Machine Learning model that uses the OpenPose API and keypoint data as input t
 
 ## Requirements
 1x Webcam (for live implementation)
-[OpenPose API][1] (along with its own requirements) 
-[1]: https://github.com/CMU-Perceptual-Computing-Lab/openpose "OpenPose API"
+[OpenPose API](https://github.com/CMU-Perceptual-Computing-Lab/openpose) (along with its own requirements) 
 
