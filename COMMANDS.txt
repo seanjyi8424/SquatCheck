@@ -1,0 +1,5 @@
+VIDEO DEMO:
+python live_demo.py --video path/to/video.mp4
+
+LIVE DEMO:
+python live_demo.py
