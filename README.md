@@ -8,6 +8,6 @@ A Machine Learning model that uses the OpenPose API and keypoint data as input t
 ![image](https://github.com/seanjyi8424/SquatCheckAI-UCR/assets/108261874/442dfe6c-5652-4fa4-8023-69d9d679274f)
 
 ## Requirements
-1x Webcam (for live implementation)
+1x Webcam (for live implementation)\n
 [OpenPose API](https://github.com/CMU-Perceptual-Computing-Lab/openpose) (along with its own requirements) 
 
