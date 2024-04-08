@@ -5,7 +5,7 @@
 
 ## What is it?
 
-A Machine Learning model that uses the OpenPose API and keypoint data as input to identify whether the exercise being performed is a valid squat. Final project from my Edge Computing class.
+A Machine Learning model that uses the OpenPose API and keypoint data as input to identify whether the exercise being performed is a valid squat. The original implementation utilized training off a personal computer and then executed on a Jetson Nano 4GB. Final project from my Edge Computing class.
 
 ## Task Distribution Diagram
 ![image](https://github.com/seanjyi8424/SquatCheckAI-UCR/assets/108261874/442dfe6c-5652-4fa4-8023-69d9d679274f)
