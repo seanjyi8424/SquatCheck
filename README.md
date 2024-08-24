@@ -1,4 +1,4 @@
-# SquatCheck-UCR
+# SquatCheck
 
 ![VID_DEMO](https://github.com/seanjyi8424/SquatCheckAI-UCR/assets/108261874/d40a877c-fd64-4492-9a4d-47acc16497a5)
 
